@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Molten UI Banner" width="100%">
+</p>
+
 # Molten
 
 ## Description
