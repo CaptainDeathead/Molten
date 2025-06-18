@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="banner.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="banner.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="0.34722222"
+     inkscape:cx="1238.4"
+     inkscape:cy="682.56"
+     inkscape:window-width="1920"
+     inkscape:window-height="961"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#00ffff;fill-opacity:1"
+       id="rect4"
+       width="2597.76"
+       height="1491.84"
+       x="-296.64001"
+       y="-172.8" />
+    <path
+       style="fill:#ff7300;fill-opacity:1"
+       d="M -48.875221,1246.3181 C 287.20649,1267.9411 169.0781,739.9962 471.99917,721.01024 796.67335,650.95538 328.78889,251.62618 661.84626,178.84928 972.05888,46.346844 521.95377,-289.44503 311.2393,-186.10565 23.783948,-210.11049 -262.28093,23.555659 -173.23021,329.46389 c 82.071666,301.59638 83.317611,609.19037 124.354989,916.85421 z"
+       id="path2" />
+    <path
+       style="fill:#ff0000;fill-opacity:1"
+       d="m 2004.48,1192.32 c 2.88,-431.04 5.76,-862.08 8.64,-1293.12 -181.44,1.92 -362.88,3.84 -544.32,5.76 130.1992,109.170331 3.7222,267.97085 -71.3673,365.66971 -82.4442,145.23905 137.5253,227.23818 84.6109,361.37647 -73.0296,170.76484 -324.705,196.92794 -349.203,395.87112 15.7404,209.5164 290.6103,226.8924 452.3407,200.2854 138.5193,-20.2789 278.5293,-60.5261 419.2987,-35.8427 z"
+       id="path4" />
+    <text
+       xml:space="preserve"
+       style="font-size:400px;font-family:Huninn;-inkscape-font-specification:Huninn;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#0000ff"
+       x="319.67996"
+       y="691.20001"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="319.67996"
+         y="691.20001">Molten</tspan></text>
+  </g>
+</svg>
