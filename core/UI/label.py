@@ -35,5 +35,5 @@ class Label:
     def update(self) -> None:
         ...
 
-    def draw(self) -> None:
-        self.master_surface.blit(self.surface, self.x, self.y)
+    def draw(self, shunt_x: int, shunt_y: int) -> None:
+        self.master_surface.blit(self.surface, self.x + shunt_x, self.y + shunt_y)
