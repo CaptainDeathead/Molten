@@ -1,9 +1,9 @@
 import pygame as pg
 import sys
 
-from UI.ui_manager import UIManager
-
 pg.init()
+
+from core.UI.ui_manager import UIManager
 
 class Window:
     FPS: int = 60

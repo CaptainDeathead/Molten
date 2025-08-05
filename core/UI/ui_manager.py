@@ -1,10 +1,10 @@
 import pygame as pg
 
-from css.stylesheet import Stylesheet
-from css.theme import Theme
+from core.css.stylesheet import Stylesheet
+from core.css.theme import Theme
 
-from UI.element import Element
-from UI.label import Label
+from core.UI.element import Element
+from core.UI.label import Label
 
 from typing import Dict
 

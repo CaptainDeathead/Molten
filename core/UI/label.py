@@ -1,6 +1,6 @@
 import pygame as pg
 
-from css import Stylesheet
+from core.css.stylesheet import Stylesheet
 
 class Label:
     surface: pg.Surface
@@ -8,11 +8,11 @@ class Label:
     x: int
     y: int
 
-    def __init__(self, master_surface: pg.Surface, styles: Stylesheet, text: str) -> None:
+    def __init__(self, master_surface: pg.Surface, text: str, styles: Stylesheet) -> None:
         self.master_surface = master_surface
 
-        self.styles: Stylesheet = styles
         self.text: str = text
+        self.styles: Stylesheet = styles
 
         self.fg_color: pg.Color = self.styles.get_style("fg_color")
         self.bg_color: pg.Color = self.styles.get_style("bg_color")

@@ -7,3 +7,8 @@ class App:
         self.window = Window(400, 400, "Molten")
 
         title_lbl = self.window.ui_manager.Label()
+
+        self.window.main()
+
+if __name__ == "__main__":
+    App()

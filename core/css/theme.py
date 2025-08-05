@@ -1,6 +1,6 @@
 import pygame as pg
 
-from css.stylesheet import Stylesheet
+from core.css.stylesheet import Stylesheet
 
 from typing import Dict
 
@@ -15,8 +15,8 @@ class Theme:
     }
 
 
-    def __init__(self, theme: str = "dark") -> Stylesheet:
+    def __init__(self, theme: str = "dark") -> None:
         if theme not in self.THEMES:
             theme = "dark"
 
-        return Stylesheet({}, self.THEMES[theme])
+        self.stylesheet = Stylesheet({}, self.THEMES[theme])
